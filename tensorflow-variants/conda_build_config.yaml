@@ -1,11 +1,11 @@
 variant:
-  - "gpu"
+        #  - "gpu"
   - "eigen"
-  - "mkl"
+    #  - "mkl"
 select_version:
-  - "0.0.1 gpu"
+        #  - "0.0.1 gpu"
   - "0.0.2 eigen"
-  - "0.0.3 mkl"
+    #  - "0.0.3 mkl"
 zip_keys:
   - variant
   - select_version
